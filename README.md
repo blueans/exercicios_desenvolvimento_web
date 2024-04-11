@@ -1,2 +1,2 @@
 # exercicios_desenvolvimento_web
-Exercícios práticos das aulas de Ferramentas de Desenvolvimento Web
+Exercícios das aulas de Ferramentas de Desenvolvimento Web
